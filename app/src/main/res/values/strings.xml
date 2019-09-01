@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Selección de quesos</string>
+    <string name="img_toolbar_alt">Imagen de sándwich para toolbar</string>
+    <string name="item_image_description">Imagen del queso</string>
+    <string name="item_name">Esto es un queso</string>
+    <string name="item_add_button_label">Añadir</string>
+    <string name="checkout_title">Finalizar compra</string>
+    <string name="checkout_message">¿Quieres pasar a finalizar tu compra?</string>
+    <string name="dialog_positive_label">Sí</string>
+    <string name="dialog_negative_label">No</string>
+    <string name="dialog_image_content_description">Imagen de un sandwich</string>
+</resources>
